@@ -30,7 +30,7 @@ https://numerics.mathdotnet.com/
 
 ## 🛠 開発環境
 
-- Unity 2022.3.x（URP）
+- Unity 2022.3.62f2
 - C#
 - Math.NET Numerics
 
